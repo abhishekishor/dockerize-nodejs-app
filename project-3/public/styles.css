@@ -16,7 +16,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #350035;
+  background-color: blue;
 }
 
 header h1 {
@@ -57,7 +57,7 @@ textarea {
 
 input:focus,
 textarea:focus {
-  border-color: #350035;
+  border-color: blue;
   outline: none;
   background-color: #ffe6ff;
 }
